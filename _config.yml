@@ -6,7 +6,7 @@ email: sapient0315@outlook.com
 description: "这里是42的个人博客ovo | 欢迎光临喵~"
 keyword: "42, 42 Blog, 四十二, 四十二的博客, 个人网站"
 url: "https://4222222.github.io" # your host, for absolute URL
-baseurl: "/42.github.io" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
