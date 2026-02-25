@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: 42 Blog
+SEOTitle: 四十二的博客 | 42 Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+email: sapient0315@outlook.com
+description: "这里是42的个人博客ovo | 欢迎光临喵~"
+keyword: "42, 42 Blog, 四十二, 四十二的博客, 个人网站"
+url: "https://42.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+qq_number: 3384898511
+github_username: 4222222
+#weibo_username:     username
+#zhihu_username:     username
+#twitter_username:
+#facebook_username:
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
